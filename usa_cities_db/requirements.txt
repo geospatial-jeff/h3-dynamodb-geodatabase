@@ -1,0 +1,4 @@
+git+https://github.com/geospatial-jeff/cognition-pipeline.git
+shapely==1.6.4.post2
+pyproj==1.9.6
+h3
